@@ -1,0 +1,113 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: white;
+}
+#Header{
+    height: 700px;;
+    padding: top 30px;
+    background-image: url("coffee.jpg.jpg");
+    background-size: cover;
+    
+   }
+#logo{
+    height: 55px;
+    width: 150px;
+    display: inline-block;
+    color: #724e2c;
+    font-size: 40px;
+    margin-left: 20px;
+    text-align: center;
+    border: 2px solid black;
+}
+.A{
+    margin-left: 200px;
+    color: #D5A18E;
+    border-bottom: 3px solid #b9b2be;
+    font-size: 18px;
+}
+#SignIn{
+    font-size: 18px;
+    height: 50px;
+    width: 150px;
+    color:white;
+   
+    margin-left: 250px;
+}
+#title{
+    padding-top: 200px;
+    padding-left: 150px;
+    color: #724e2c;
+    font-size: 100px;
+    text-decoration: underline black;
+}
+#content{
+    padding-left: 150px;
+    padding-right: 200px;
+    color:black;
+    font-size: 18px;
+}
+.bold{
+    color: black;
+}
+.break{
+    height: 5px;
+    background-color: #885220;
+}
+#OurMission{
+    height: 800px;
+    background-image: url(Menu.jpg);
+}
+#Heading{
+    padding-top: 200px;
+    padding-left: 100px;
+    font-size: 75px;
+}
+#OurMissionParagraph{
+    padding-left: 260px;
+    padding-right: 150px;
+    padding-top: 40px;
+    color:#271300;
+    font-size: 18px;
+}
+#AboutUs{
+    height: 800px;
+    background-image: url("About Us.jpg");
+}
+#AboutUsHeading{
+    padding-top: 200px;
+    padding-left: 100px;
+    font-size: 75px;
+}
+#AboutUsParagraph{
+    padding-left: 260px;
+    padding-right: 150px;
+    padding-top: 40px;
+    color:white;
+    font-size: 20px;
+}
+#ContactUs{
+    height: 500px;
+    background-image:url("Contact Us (2).jpg");
+}
+#ContactUsHeading{
+    padding-top: 80px;
+    padding-left: 100px;
+    font-size: 75px;
+}
+#ContactUsParagraph{
+    padding-left: 260px;
+    padding-right: 150px;
+    padding-top:65px;
+    color:white;
+    font-size: 20px;
+}
+#footer{
+    background-color: rgb(49, 46, 46);
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+#footer p{
+    padding-top:10px ;
+}
